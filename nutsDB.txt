@@ -1,0 +1,62 @@
+Item Number	Food Group	Food Name	Protein (g)	Fat (g)	Carbohydrates (g)	Ash (g)	Calories
+12058	Nuts Product	"Nuts, acorns, raw"	6.15	23.86	40.75	1.35	387
+12059	Nuts Product	"Nuts, acorns, dried"	8.1	31.41	53.66	1.78	509
+12060	Nuts Product	"Nuts, acorn flour, full fat"	7.49	30.17	54.65	1.69	501
+12061	Nuts Product	"Nuts, almonds"	21.15	49.93	21.55	2.97	579
+12062	Nuts Product	"Nuts, almonds, blanched"	21.4	52.52	18.67	2.91	590
+12063	Nuts Product	"Nuts, almonds, dry roasted, without salt added"	20.96	52.54	21.01	3.07	598
+12065	Nuts Product	"Nuts, almonds, oil roasted, without salt added"	21.23	55.17	17.68	3.13	607
+12071	Nuts Product	"Nuts, almond paste"	9	27.74	47.81	1.37	458
+12077	Nuts Product	"Nuts, beechnuts, dried"	6.2	50	33.5	3.7	576
+12078	Nuts Product	"Nuts, brazilnuts, dried, unblanched"	14.32	67.1	11.74	3.43	659
+12084	Nuts Product	"Nuts, butternuts, dried"	24.9	56.98	12.05	2.73	612
+12085	Nuts Product	"Nuts, cashew nuts, dry roasted, without salt added"	15.31	46.35	32.69	3.95	574
+12086	Nuts Product	"Nuts, cashew nuts, oil roasted, without salt added"	16.84	47.77	29.87	2.03	580
+12087	Nuts Product	"Nuts, cashew nuts, raw"	18.22	43.85	30.19	2.54	553
+12088	Nuts Product	"Nuts, cashew butter, plain, without salt added"	17.56	49.41	27.57	2.5	587
+12093	Nuts Product	"Nuts, chestnuts, chinese, raw"	4.2	1.11	49.07	1.67	224
+12094	Nuts Product	"Nuts, chestnuts, chinese, dried"	6.82	1.81	79.76	2.71	363
+12095	Nuts Product	"Nuts, chestnuts, chinese, boiled and steamed"	2.88	0.76	33.64	1.14	153
+12096	Nuts Product	"Nuts, chestnuts, chinese, roasted"	4.48	1.19	52.36	1.78	239
+12097	Nuts Product	"Nuts, chestnuts, european, raw, unpeeled"	2.42	2.26	45.54	1.13	213
+12098	Nuts Product	"Nuts, chestnuts, european, raw, peeled"	1.63	1.25	44.17	0.96	196
+12099	Nuts Product	"Nuts, chestnuts, european, dried, unpeeled"	6.39	4.45	77.31	2.4	374
+12100	Nuts Product	"Nuts, chestnuts, european, dried, peeled"	5.01	3.91	78.43	3.64	369
+12101	Nuts Product	"Nuts, chestnuts, european, boiled and steamed"	2	1.38	27.76	0.71	131
+12104	Nuts Product	"Nuts, coconut meat, raw"	3.33	33.49	15.23	0.97	354
+12108	Nuts Product	"Nuts, coconut meat, dried (desiccated), not sweetened"	6.88	64.53	23.65	1.94	660
+12109	Nuts Product	"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged"	3.13	27.99	51.85	1.57	456
+12110	Nuts Product	"Nuts, coconut meat, dried (desiccated), sweetened, flaked, canned"	3.35	31.69	40.91	0.78	443
+12114	Nuts Product	"Nuts, coconut meat, dried (desiccated), toasted"	5.3	47	44.4	2.3	592
+12115	Nuts Product	"Nuts, coconut cream, raw (liquid expressed from grated meat)"	3.63	34.68	6.65	1.15	330
+12116	Nuts Product	"Nuts, coconut cream, canned, sweetened"	1.17	16.31	53.21	0.34	357
+12117	Nuts Product	"Nuts, coconut milk, raw (liquid expressed from grated meat and water)"	2.29	23.84	5.54	0.72	230
+12118	Nuts Product	"Nuts, coconut milk, canned (liquid expressed from grated meat and water)"	2.02	21.33	2.81	0.97	197
+12119	Nuts Product	"Nuts, coconut water (liquid from coconuts)"	0.72	0.2	3.71	0.39	19
+12120	Nuts Product	"Nuts, hazelnuts or filberts"	14.95	60.75	16.7	2.29	628
+12121	Nuts Product	"Nuts, hazelnuts or filberts, blanched"	13.7	61.15	17	2.36	629
+12122	Nuts Product	"Nuts, hazelnuts or filberts, dry roasted, without salt added"	15.03	62.4	17.6	2.45	646
+12127	Nuts Product	"Nuts, ginkgo nuts, raw"	4.32	1.68	37.6	1.2	182
+12128	Nuts Product	"Nuts, ginkgo nuts, dried"	10.35	2	72.45	2.8	348
+12129	Nuts Product	"Nuts, ginkgo nuts, canned"	2.29	1.62	22.1	1.04	111
+12130	Nuts Product	"Nuts, hickorynuts, dried"	12.72	64.37	18.25	2	657
+12131	Nuts Product	"Nuts, macadamia nuts, raw"	7.91	75.77	13.82	1.14	718
+12132	Nuts Product	"Nuts, macadamia nuts, dry roasted, without salt added"	7.79	76.08	13.38	1.14	718
+12135	Nuts Product	"Nuts, mixed nuts, dry roasted, with peanuts, without salt added"	19.5	53.5	22.42	2.45	607
+12136	Nuts Product	"Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend"	21.95	49.3	22.51	3.33	580
+12137	Nuts Product	"Nuts, mixed nuts, oil roasted, with peanuts, without salt added"	20.04	53.95	21.05	2.88	607
+12138	Nuts Product	"Nuts, mixed nuts, oil roasted, without peanuts, without salt added"	15.52	56.17	22.27	2.89	615
+12140	Nuts Product	"Nuts, formulated, wheat-based, unflavored, with salt added"	13.82	57.7	23.68	2.3	622
+12141	Nuts Product	"Nuts, mixed nuts, dry roasted, with peanuts, salt added, CHOSEN ROASTER"	18	58.8	19.02	2.66	632
+12142	Nuts Product	"Nuts, pecans"	9.17	71.97	13.86	1.49	691
+12143	Nuts Product	"Nuts, pecans, dry roasted, without salt added"	9.5	74.27	13.55	1.56	710
+12144	Nuts Product	"Nuts, pecans, oil roasted, without salt added"	9.2	75.23	13.01	1.42	715
+12145	Nuts Product	"Nuts, pilinuts, dried"	10.8	79.55	3.98	2.91	719
+12147	Nuts Product	"Nuts, pine nuts, dried"	13.69	68.37	13.08	2.59	673
+12149	Nuts Product	"Nuts, pine nuts, pinyon, dried"	11.57	60.98	19.3	2.26	629
+12151	Nuts Product	"Nuts, pistachio nuts, raw"	20.16	45.32	27.17	2.99	560
+12152	Nuts Product	"Nuts, pistachio nuts, dry roasted, without salt added"	21.05	45.82	28.28	3	572
+12154	Nuts Product	"Nuts, walnuts, black, dried"	24.06	59.33	9.58	2.47	619
+12155	Nuts Product	"Nuts, walnuts, english"	15.23	65.21	13.71	1.78	654
+12156	Nuts Product	"Nuts, walnuts, glazed"	8.28	35.71	47.59	2.13	500
+12157	Nuts Product	"Nuts, walnuts, dry roasted, with salt added"	14.29	60.71	17.86	2.76	643
